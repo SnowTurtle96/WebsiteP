@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="_gitkeep" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
+      <mapping ext="cab" type="PLAIN_TEXT" />
       <mapping pattern="scala" type="Scala" />
     </extensionMap>
   </component>
